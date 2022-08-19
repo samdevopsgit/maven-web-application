@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions. Bengaluru,Karnataka </h1>
-<h1 align="center"> Mithun Software Solutions- Very Good Training center for DevOps with AWS in MarathaHalli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scenerios</h1>
+<h1 align="center">Welcome to MSS. Bengaluru,Karnataka </h1>
+<h1 align="center"> MSS- Very Good Training center for DevOps with AWS in MarathaHalli Bengaluru India and also for Job Assitance Job Support also...Teaching Real Time scenerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
