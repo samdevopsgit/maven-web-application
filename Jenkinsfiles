@@ -25,10 +25,11 @@ node('wallmart-node')
    stage('SendEmailNotification'){	
 	mail bcc: 'dsam94520@gmail.com', body: '''Build Over !!
     
-*/
+
 
 Regards,
 Samikshya Das
 9438007552''', cc: 'dsam94520@gmail.com', from: '', replyTo: '', subject: 'Build Over !!', to: 'dsam94520@gmail.com'
 }
+*/
 }
